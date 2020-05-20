@@ -1,0 +1,39 @@
+// Place your key bindings in this file to override the defaultsauto[]
+// Windows c:\users\username\appdata\roaming\code\user\keybindings.json
+[
+    {
+        "key": "ctrl+t",
+        "command": "-workbench.action.showAllSymbols"
+    },
+
+    {
+        "key": "ctrl+t",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },
+
+
+    // Global keybindings using chords (two separate keypress actions)
+    // { "key": "ctrl+k enter",    "command": "workbench.action.keepEditor" },
+    // { "key": "ctrl+k ctrl+w",   "command": "workbench.action.closeAllEditors" },
+
+    {
+        "key": "ctrl+k ctrl+e",
+        "command": "workbench.view.explorer"
+    },
+
+    {
+        "key": "ctrl+k ctrl+v",
+        "command": "workbench.view.scm"
+    },
+
+    {
+        "key": "ctrl+k ctrl+d",
+        "command": "workbench.view.debug"
+    },
+
+    {
+        "key": "ctrl+k ctrl+x",
+        "command": "workbench.extensions.action.showInstalledExtensions"
+    },
+
+]
