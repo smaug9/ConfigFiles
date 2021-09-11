@@ -1,0 +1,24 @@
+// Windows c:\users\username\appdata\roaming\code\user\settings.json
+
+
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "powershell.promptToUpdatePowerShell": false,
+    "remote.SSH.remotePlatform": {
+        "ub": "linux",
+        "ub004": "linux"
+    },
+    "git.enableSmartCommit": true,
+    "editor.fontSize": 18,
+    /**
+    * Silence the noise
+    **/
+    "workbench.activityBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "workbench.iconTheme": null,
+    "editor.minimap.enabled": false
+}
+    
+
+    
